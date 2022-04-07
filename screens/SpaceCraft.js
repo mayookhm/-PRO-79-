@@ -85,17 +85,17 @@ export default class SpaceCraftsScreen extends Component {
                                 initialNumToRender={10}
                             /> */}
 
-                            {/* <FlatList
+                             <FlatList
                                 keyExtractor={this.keyExtractor}
                                 data={this.state.aircrafts}
                                 renderItem={this.renderItem}
                                 initialNumToRender={10}
-                            /> */}
+                            /> 
                             
-                            {<FlatList
+                                    {/*   <FlatList
                                 keyExtractor={this.keyExtractor}
                                 initialNumToRender={10}
-                            />}
+                            /> */}
                         </View>
 
 
